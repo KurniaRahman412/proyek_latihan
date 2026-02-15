@@ -1,0 +1,1 @@
+Halo, saya mengetik ini dari terminal Linux
