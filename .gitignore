@@ -1,0 +1,11 @@
+# Mengabaikan file Rahasia
+fileHaram.txt
+
+# Mengabaikan folder library yang berat
+node_modules/
+
+# Mengabaikan file sampah
+.DS_Store
+
+# Mengabaikan semua file log
+*.log
